@@ -1,0 +1,6 @@
+baseURL = "http://virtualmicropolis.org/"
+languageCode = "en-us"
+title = "Virtual Micropolis"
+relativeURLs = true
+
+categories = disable
